@@ -1,0 +1,3 @@
+Download the data set through the given link its very big so could not be uploaded on GitHub
+
+https://www.kaggle.com/datasets/jacklizhi/creditcard?resource=download
